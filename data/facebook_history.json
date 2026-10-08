@@ -14401,5 +14401,106 @@
         "followers": 268257
       }
     }
+  },
+  {
+    "platform": "facebook",
+    "date": "2026-10-09",
+    "accounts": {
+      "olivier faure": {
+        "display_name": "Olivier FAURE",
+        "username": "olivierfaure77",
+        "followers": 37728
+      },
+      "bruno retailleau": {
+        "display_name": "Bruno RETAILLEAU",
+        "username": "BrunoRetailleau",
+        "followers": 121777
+      },
+      "françois ruffin": {
+        "display_name": "François RUFFIN",
+        "username": "FrancoisRuffin80",
+        "followers": 942705
+      },
+      "fabien roussel": {
+        "display_name": "Fabien ROUSSEL",
+        "username": "FabienRoussel59",
+        "followers": 43782
+      },
+      "dominique de villepin": {
+        "display_name": "Dominique DE VILLEPIN",
+        "username": "dominiquedevillepin",
+        "followers": 305460
+      },
+      "raphael glucksmann": {
+        "display_name": "Raphaël GLUCKSMANN",
+        "username": "raphaelglucksmann",
+        "followers": 183559
+      },
+      "marine le pen": {
+        "display_name": "Marine LE PEN",
+        "username": "MarineLePen",
+        "followers": 2156761
+      },
+      "francois asselineau": {
+        "display_name": "François ASSELINEAU",
+        "username": "fasselineau",
+        "followers": 309527
+      },
+      "david lisnard": {
+        "display_name": "David LISNARD",
+        "username": "lisnard.david",
+        "followers": 109106
+      },
+      "edouard philippe": {
+        "display_name": "Édouard PHILIPPE",
+        "username": "edouardphilippelh",
+        "followers": 268359
+      },
+      "nicolas dupont aignan": {
+        "display_name": "Nicolas DUPONT-AIGNAN",
+        "username": "nicolasdupontaignan",
+        "followers": 809273
+      },
+      "jean luc melenchon": {
+        "display_name": "Jean-Luc MÉLENCHON",
+        "username": "JLMelenchon",
+        "followers": 2038779
+      },
+      "florian philippot": {
+        "display_name": "Florian PHILIPPOT",
+        "username": "philippot.f",
+        "followers": 535477
+      },
+      "nathalie arthaud": {
+        "display_name": "Nathalie ARTHAUD",
+        "username": "nathaliearthaud",
+        "followers": 56935
+      },
+      "francois hollande": {
+        "display_name": "François HOLLANDE",
+        "username": "francoishollande.fr",
+        "followers": 1017947
+      },
+      "marine tondelier": {
+        "display_name": "Marine TONDELIER",
+        "username": "marinetondelierfr",
+        "followers": 85316
+      },
+      "sarah knafo": {
+        "display_name": "Sarah KNAFO",
+        "username": "Sarah-Knafo-61559003907671",
+        "followers": 699433
+      },
+      "eric zemmour": {
+        "display_name": "Eric ZEMMOUR",
+        "username": "ZemmourEric",
+        "followers": 442505
+      },
+      "gabriel attal": {
+        "display_name": "Gabriel ATTAL",
+        "username": "GabrielAttal",
+        "followers": 185318
+      }
+    }
   }
 ]
