@@ -4,7 +4,8 @@
     "display_name": "Jordan BARDELLA",
     "accounts": {
       "instagram": {
-        "username": "jordanbardella"
+        "username": "jordanbardella",
+        "instagram_id": "2030441376"
       },
       "twitter": {
         "username": "J_Bardella"
@@ -15,8 +16,7 @@
       "facebook": {
         "username": "JordanBardella"
       }
-    },
-    "enabled": false
+    }
   },
   {
     "id": "florian philippot",
