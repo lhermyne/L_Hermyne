@@ -18758,113 +18758,95 @@
     "platform": "facebook",
     "date": "2026-11-25",
     "accounts": {
-      "gabriel attal": {
-        "display_name": "Gabriel ATTAL",
-        "username": "GabrielAttal",
-        "followers": 193930,
-        "url": "https://www.facebook.com/GabrielAttal"
-      },
-      "edouard philippe": {
-        "display_name": "Édouard PHILIPPE",
-        "username": "edouardphilippelh",
-        "followers": 273482,
-        "url": "https://www.facebook.com/edouardphilippelh"
-      },
-      "raphael glucksmann": {
-        "display_name": "Raphaël GLUCKSMANN",
-        "username": "raphaelglucksmann",
-        "followers": 198683,
-        "url": "https://www.facebook.com/raphaelglucksmann"
-      },
-      "fabien roussel": {
-        "display_name": "Fabien ROUSSEL",
-        "username": "FabienRoussel59",
-        "followers": 43911,
-        "url": "https://www.facebook.com/FabienRoussel59"
-      },
-      "jordan bardella": {
-        "display_name": "Jordan BARDELLA",
-        "username": "JordanBardella",
-        "followers": 1408885,
-        "url": "https://www.facebook.com/JordanBardella"
-      },
       "jean luc melenchon": {
         "display_name": "Jean-Luc MÉLENCHON",
         "username": "JLMelenchon",
-        "followers": 2175696,
-        "url": "https://www.facebook.com/JLMelenchon"
-      },
-      "nathalie arthaud": {
-        "display_name": "Nathalie ARTHAUD",
-        "username": "nathaliearthaud",
-        "followers": 61028,
-        "url": "https://www.facebook.com/nathaliearthaud"
-      },
-      "nicolas dupont aignan": {
-        "display_name": "Nicolas DUPONT-AIGNAN",
-        "username": "nicolasdupontaignan",
-        "followers": 825906,
-        "url": "https://www.facebook.com/nicolasdupontaignan"
-      },
-      "dominique de villepin": {
-        "display_name": "Dominique DE VILLEPIN",
-        "username": "dominiquedevillepin",
-        "followers": 347780,
-        "url": "https://www.facebook.com/dominiquedevillepin"
-      },
-      "francois asselineau": {
-        "display_name": "François ASSELINEAU",
-        "username": "fasselineau",
-        "followers": 323813,
-        "url": "https://www.facebook.com/fasselineau"
-      },
-      "sarah knafo": {
-        "display_name": "Sarah KNAFO",
-        "username": "Sarah-Knafo-61559003907671",
-        "followers": 839081,
-        "url": "https://www.facebook.com/Sarah-Knafo-61559003907671"
-      },
-      "florian philippot": {
-        "display_name": "Florian PHILIPPOT",
-        "username": "philippot.f",
-        "followers": 549574,
-        "url": "https://www.facebook.com/philippot.f"
-      },
-      "eric zemmour": {
-        "display_name": "Eric ZEMMOUR",
-        "username": "ZemmourEric",
-        "followers": 482952,
-        "url": "https://www.facebook.com/ZemmourEric"
-      },
-      "françois ruffin": {
-        "display_name": "François RUFFIN",
-        "username": "FrancoisRuffin80",
-        "followers": 958715,
-        "url": "https://www.facebook.com/FrancoisRuffin80"
-      },
-      "marine tondelier": {
-        "display_name": "Marine TONDELIER",
-        "username": "marinetondelierfr",
-        "followers": 91526,
-        "url": "https://www.facebook.com/marinetondelierfr"
-      },
-      "david lisnard": {
-        "display_name": "David LISNARD",
-        "username": "lisnard.david",
-        "followers": 152604,
-        "url": "https://www.facebook.com/lisnard.david"
-      },
-      "bruno retailleau": {
-        "display_name": "Bruno RETAILLEAU",
-        "username": "BrunoRetailleau",
-        "followers": 140787,
-        "url": "https://www.facebook.com/BrunoRetailleau"
+        "followers": 2177208
       },
       "marine le pen": {
         "display_name": "Marine LE PEN",
         "username": "MarineLePen",
-        "followers": 2250789,
-        "url": "https://www.facebook.com/MarineLePen"
+        "followers": 2251683
+      },
+      "edouard philippe": {
+        "display_name": "Édouard PHILIPPE",
+        "username": "edouardphilippelh",
+        "followers": 273667
+      },
+      "bruno retailleau": {
+        "display_name": "Bruno RETAILLEAU",
+        "username": "BrunoRetailleau",
+        "followers": 140980
+      },
+      "francois asselineau": {
+        "display_name": "François ASSELINEAU",
+        "username": "fasselineau",
+        "followers": 324062
+      },
+      "david lisnard": {
+        "display_name": "David LISNARD",
+        "username": "lisnard.david",
+        "followers": 153829
+      },
+      "sarah knafo": {
+        "display_name": "Sarah KNAFO",
+        "username": "Sarah-Knafo-61559003907671",
+        "followers": 842152
+      },
+      "nathalie arthaud": {
+        "display_name": "Nathalie ARTHAUD",
+        "username": "nathaliearthaud",
+        "followers": 61061
+      },
+      "fabien roussel": {
+        "display_name": "Fabien ROUSSEL",
+        "username": "FabienRoussel59",
+        "followers": 43919
+      },
+      "dominique de villepin": {
+        "display_name": "Dominique DE VILLEPIN",
+        "username": "dominiquedevillepin",
+        "followers": 348460
+      },
+      "françois ruffin": {
+        "display_name": "François RUFFIN",
+        "username": "FrancoisRuffin80",
+        "followers": 958800
+      },
+      "nicolas dupont aignan": {
+        "display_name": "Nicolas DUPONT-AIGNAN",
+        "username": "nicolasdupontaignan",
+        "followers": 826235
+      },
+      "marine tondelier": {
+        "display_name": "Marine TONDELIER",
+        "username": "marinetondelierfr",
+        "followers": 91549
+      },
+      "florian philippot": {
+        "display_name": "Florian PHILIPPOT",
+        "username": "philippot.f",
+        "followers": 549821
+      },
+      "jordan bardella": {
+        "display_name": "Jordan BARDELLA",
+        "username": "JordanBardella",
+        "followers": 1409731
+      },
+      "gabriel attal": {
+        "display_name": "Gabriel ATTAL",
+        "username": "GabrielAttal",
+        "followers": 193955
+      },
+      "raphael glucksmann": {
+        "display_name": "Raphaël GLUCKSMANN",
+        "username": "raphaelglucksmann",
+        "followers": 198977
+      },
+      "eric zemmour": {
+        "display_name": "Eric ZEMMOUR",
+        "username": "ZemmourEric",
+        "followers": 483404
       }
     }
   }
